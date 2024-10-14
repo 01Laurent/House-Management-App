@@ -1,0 +1,23 @@
+{
+  "name": "house-management-app",
+  "version": "1.0.0",
+  "description": "A web app that allows landlords to determine which tenants have paid their rent and those ones that are due.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/01Laurent/House-Management-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/01Laurent/House-Management-App/issues"
+  },
+  "homepage": "https://github.com/01Laurent/House-Management-App#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
